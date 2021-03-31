@@ -1,4 +1,8 @@
-# client
+# MARCO'S RPAN STREAMING
+
+https://github.com/marcocastignoli/rpan-stream
+
+http://reddit.castignoli.it/rpan
 
 ## Project setup
 ```
